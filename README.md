@@ -1,1 +1,1 @@
-This file is for testing purposes only.
+This file is videoplayer demo item.
